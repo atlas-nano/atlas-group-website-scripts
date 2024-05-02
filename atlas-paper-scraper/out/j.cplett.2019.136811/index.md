@@ -14,8 +14,7 @@ doi: "10.1016/j.cplett.2019.136811"
 abstract: ""
 links:
 - name: Main Paper
-  url: "publication/j.cplett.2019.136811/052.j.cplett.2019.136811.pdf"
-
+  url: "publication/j.cplett.2019.136811/052.j.cplett.2019.136811.pdf" 
 
 
 publication: "Chemical Physics Letters"

@@ -7,8 +7,7 @@ doi: "10.1093/nar/gkh931"
 abstract: ""
 links:
 - name: Main Paper
-  url: "publication/nar/001.nar-6047.full.pdf"
-
+  url: "publication/nar/001.nar-6047.full.pdf" 
 
 
 publication: "Nucleic Acids Research"

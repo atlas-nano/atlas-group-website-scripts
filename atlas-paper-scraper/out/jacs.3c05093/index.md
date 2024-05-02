@@ -6,18 +6,16 @@ authors:
 - Qiang Xu
 - Amanda A. Chen
 - Jin Qian
-- admin
+- Tod
 - Richard J. Saykally
 date: "2023-10-18T00:00:00Z"
 doi: "10.1021/jacs.3c05093"
 abstract: ""
 links:
 - name: Main Paper
-  url: "publication/jacs.3c05093/087.jacs.3c05093.ms.pdf"
-
+  url: "publication/jacs.3c05093/087.jacs.3c05093.ms.pdf" 
 - name: Supporting Material
-  url: "publication/jacs.3c05093/087.jacs.3c05093.si.pdf"
-
+  url: "publication/jacs.3c05093/087.jacs.3c05093.si.pdf" 
 
 publication: "Journal of the American Chemical Society"
 publication_types: ["article-journal"]

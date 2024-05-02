@@ -11,18 +11,16 @@ authors:
 - Sarah Wieghold
 - Darrell G. Schlom
 - Volker Rose
-- admin
+- Tod
 - David P. Fenning
 date: "2023-02-10T00:00:00Z"
 doi: "10.1021/acsanm.2c05257"
 abstract: ""
 links:
 - name: Main Paper
-  url: "publication/acsanm.2c05257/077.acsanm.2c05257.pdf"
-
+  url: "publication/acsanm.2c05257/077.acsanm.2c05257.pdf" 
 - name: Supporting Material
-  url: "publication/acsanm.2c05257/077.an2c05257_si_001.pdf"
-
+  url: "publication/acsanm.2c05257/077.an2c05257_si_001.pdf" 
 
 publication: "ACS Applied Nano Materials"
 publication_types: ["article-journal"]

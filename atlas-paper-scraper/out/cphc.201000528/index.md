@@ -5,7 +5,7 @@ authors:
 - Habib Ahmad
 - Qihui Shi
 - Hyungjun Kim
-- admin
+- Tod
 - Rong Fan
 - William A. Goddard
 - James R. Heath
@@ -14,11 +14,9 @@ doi: "10.1002/cphc.201000528"
 abstract: ""
 links:
 - name: Main Paper
-  url: "publication/cphc.201000528/007.cphc_201000528.pdf"
-
+  url: "publication/cphc.201000528/007.cphc_201000528.pdf" 
 - name: Supporting Material
-  url: "publication/cphc.201000528/007.cphc_201000528_sm_miscellaneous_information.pdf"
-
+  url: "publication/cphc.201000528/007.cphc_201000528_sm_miscellaneous_information.pdf" 
 
 publication: "ChemPhysChem"
 publication_types: ["article-journal"]

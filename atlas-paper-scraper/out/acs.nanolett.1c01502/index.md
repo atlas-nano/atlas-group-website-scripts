@@ -20,18 +20,16 @@ authors:
 - Walter S. Drisdell
 - Iwao Matsuda
 - John W. Freeland
-- admin
+- Tod
 - Michael Zuerch
 date: "2021-07-28T00:00:00Z"
 doi: "10.1021/acs.nanolett.1c01502"
 abstract: ""
 links:
 - name: Main Paper
-  url: "publication/acs.nanolett.1c01502/061.acs.nanolett.1c01502.pdf"
-
+  url: "publication/acs.nanolett.1c01502/061.acs.nanolett.1c01502.pdf" 
 - name: Supporting Material
-  url: "publication/acs.nanolett.1c01502/061.nl1c01502_si_001.pdf"
-
+  url: "publication/acs.nanolett.1c01502/061.nl1c01502_si_001.pdf" 
 
 publication: "Nano Letters"
 publication_types: ["article-journal"]

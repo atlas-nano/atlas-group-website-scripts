@@ -12,18 +12,16 @@ authors:
 - Ying Shirley Meng
 - Ping Liu
 - Seth M. Cohen
-- admin
+- Tod
 - Zheng Chen
 date: "2023-08-09T00:00:00Z"
 doi: "10.1021/acs.nanolett.3c01825"
 abstract: ""
 links:
 - name: Main Paper
-  url: "publication/acs.nanolett.3c01825/083.acs.nanolett.3c01825.ms.pdf"
-
+  url: "publication/acs.nanolett.3c01825/083.acs.nanolett.3c01825.ms.pdf" 
 - name: Supporting Material
-  url: "publication/acs.nanolett.3c01825/083.acs.nanolett.3c01825.si.pdf"
-
+  url: "publication/acs.nanolett.3c01825/083.acs.nanolett.3c01825.si.pdf" 
 
 publication: "Nano Letters"
 publication_types: ["article-journal"]

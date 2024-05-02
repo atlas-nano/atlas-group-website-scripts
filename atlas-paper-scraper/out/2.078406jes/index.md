@@ -4,7 +4,7 @@ authors:
 - Kevin H. Wujcik
 - Juan Velasco-Velez
 - Cheng Hao Wu
-- Tod Pascal
+- Tod
 - Alexander A. Teran
 - Matthew A. Marcus
 - Jordi Cabana
@@ -17,8 +17,7 @@ doi: "10.1149/2.078406jes"
 abstract: ""
 links:
 - name: Main Paper
-  url: "publication/2.078406jes/028.jecs.A1100-6.pdf"
-
+  url: "publication/2.078406jes/028.jecs.A1100-6.pdf" 
 
 
 publication: "Journal of The Electrochemical Society"

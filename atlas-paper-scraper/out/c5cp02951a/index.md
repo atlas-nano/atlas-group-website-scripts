@@ -4,7 +4,7 @@ authors:
 - Walter S. Drisdell
 - Roberta Poloni
 - Thomas M. McDonald
-- admin
+- Tod
 - Liwen F. Wan
 - C. Das Pemmaraju
 - Bess Vlaisavljevich
@@ -18,11 +18,9 @@ doi: "10.1039/c5cp02951a"
 abstract: "<p>         <italic>In situ</italic> X-ray absorption spectroscopy, coupled with DFT calculations, uncovers the details of the novel mechanism for CO<sub>2</sub> adsorption in diamine-appended metal–organic frameworks.</p>"
 links:
 - name: Main Paper
-  url: "publication/c5cp02951a/034.c5cp02951a.pdf"
-
+  url: "publication/c5cp02951a/034.c5cp02951a.pdf" 
 - name: Supporting Material
-  url: "publication/c5cp02951a/034.c5cp02951a.SM.pdf"
-
+  url: "publication/c5cp02951a/034.c5cp02951a.SM.pdf" 
 
 publication: "Physical Chemistry Chemical Physics"
 publication_types: ["article-journal"]

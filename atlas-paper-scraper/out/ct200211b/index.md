@@ -2,7 +2,7 @@
 title: "Absolute Entropy and Energy of Carbon Dioxide Using the Two-Phase Thermodynamic Model"
 authors:
 - Shao-Nung Huang
-- admin
+- Tod
 - William A. Goddard
 - Prabal K. Maiti
 - Shiang-Tai Lin
@@ -11,8 +11,7 @@ doi: "10.1021/ct200211b"
 abstract: ""
 links:
 - name: Main Paper
-  url: "publication/ct200211b/014.ct200211b.pdf"
-
+  url: "publication/ct200211b/014.ct200211b.pdf" 
 
 
 publication: "Journal of Chemical Theory and Computation"

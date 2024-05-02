@@ -10,7 +10,7 @@ authors:
 - Sicen Yu
 - Shen Wang
 - Jianbin Zhou
-- admin
+- Tod
 - Jian Luo
 - Zhaoping Liu
 - Ying Shirley Meng
@@ -20,11 +20,9 @@ doi: "10.1021/acsami.3c07224"
 abstract: ""
 links:
 - name: Main Paper
-  url: "publication/acsami.3c07224/085.acsami.3c07224.ms.pdf"
-
+  url: "publication/acsami.3c07224/085.acsami.3c07224.ms.pdf" 
 - name: Supporting Material
-  url: "publication/acsami.3c07224/085.acsami.3c07224.si.pdf"
-
+  url: "publication/acsami.3c07224/085.acsami.3c07224.si.pdf" 
 
 publication: "ACS Applied Materials &amp; Interfaces"
 publication_types: ["article-journal"]

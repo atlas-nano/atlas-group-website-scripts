@@ -6,7 +6,7 @@ authors:
 - Chanan Euaruksakul
 - Rachel Price
 - David A. Duncan
-- Tod Pascal
+- Tod
 - David Prendergast
 - Georg Held
 - Angelos Michaelides
@@ -15,11 +15,9 @@ doi: "10.1021/acs.langmuir.8b03528"
 abstract: ""
 links:
 - name: Main Paper
-  url: "publication/acs.langmuir.8b03528/049.acs.langmuir.8b03528.pdf"
-
+  url: "publication/acs.langmuir.8b03528/049.acs.langmuir.8b03528.pdf" 
 - name: Supporting Material
-  url: "publication/acs.langmuir.8b03528/049.acs.langmuir.8b03528_si_001.pdf"
-
+  url: "publication/acs.langmuir.8b03528/049.acs.langmuir.8b03528_si_001.pdf" 
 
 publication: "Langmuir"
 publication_types: ["article-journal"]

@@ -17,7 +17,7 @@ authors:
 - Sondre K. Schnell
 - Nora Planas
 - Kyuho Lee
-- Tod Pascal
+- Tod
 - Liwen F. Wan
 - David Prendergast
 - Jeffrey B. Neaton
@@ -32,11 +32,9 @@ doi: "10.1038/nature14327"
 abstract: ""
 links:
 - name: Main Paper
-  url: "publication/nature14327/032.nature14327.pdf"
-
+  url: "publication/nature14327/032.nature14327.pdf" 
 - name: Supporting Material
-  url: "publication/nature14327/032.nature14327-s1.pdf"
-
+  url: "publication/nature14327/032.nature14327-s1.pdf" 
 
 publication: "Nature"
 publication_types: ["article-journal"]

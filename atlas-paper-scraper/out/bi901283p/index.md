@@ -6,7 +6,7 @@ authors:
 - Vonny Juwita
 - Yu Kao
 - John G. Duman
-- admin
+- Tod
 - William A. Goddard
 - Xin Wen
 date: "2009-10-13T00:00:00Z"
@@ -14,11 +14,9 @@ doi: "10.1021/bi901283p"
 abstract: ""
 links:
 - name: Main Paper
-  url: "publication/bi901283p/006.BioChem.bi901283p.pdf"
-
+  url: "publication/bi901283p/006.BioChem.bi901283p.pdf" 
 - name: Supporting Material
-  url: "publication/bi901283p/006.BioChem.bi901283p_Sm.pdf"
-
+  url: "publication/bi901283p/006.BioChem.bi901283p_Sm.pdf" 
 
 publication: "Biochemistry"
 publication_types: ["article-journal"]

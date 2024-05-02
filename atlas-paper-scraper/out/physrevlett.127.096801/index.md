@@ -19,7 +19,7 @@ authors:
 - Luca Poletto
 - Emiliano Principi
 - Michael Zuerch
-- admin
+- Tod
 - Walter S. Drisdell
 - Richard J. Saykally
 date: "2021-08-24T00:00:00Z"
@@ -27,11 +27,9 @@ doi: "10.1103/physrevlett.127.096801"
 abstract: ""
 links:
 - name: Main Paper
-  url: "publication/physrevlett.127.096801/063.PhysRevLett.127.096801.pdf"
-
+  url: "publication/physrevlett.127.096801/063.PhysRevLett.127.096801.pdf" 
 - name: Supporting Material
-  url: "publication/physrevlett.127.096801/063.PhysRevLett.127.096801-si.pdf"
-
+  url: "publication/physrevlett.127.096801/063.PhysRevLett.127.096801-si.pdf" 
 
 publication: "Physical Review Letters"
 publication_types: ["article-journal"]

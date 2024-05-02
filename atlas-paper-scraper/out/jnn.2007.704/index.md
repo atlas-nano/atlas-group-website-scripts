@@ -10,8 +10,7 @@ doi: "10.1166/jnn.2007.704"
 abstract: ""
 links:
 - name: Main Paper
-  url: "publication/jnn.2007.704/003.NanoSciNanoTech.707.pdf"
-
+  url: "publication/jnn.2007.704/003.NanoSciNanoTech.707.pdf" 
 
 
 publication: "Journal of Nanoscience and Nanotechnology"

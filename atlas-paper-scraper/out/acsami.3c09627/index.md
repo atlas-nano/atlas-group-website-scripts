@@ -14,18 +14,16 @@ authors:
 - Zhi Li
 - Jiajing Zhou
 - Lingyan Shi
-- admin
+- Tod
 - Jesse V. Jokerst
 date: "2023-09-13T00:00:00Z"
 doi: "10.1021/acsami.3c09627"
 abstract: ""
 links:
 - name: Main Paper
-  url: "publication/acsami.3c09627/084.acsami.3c09627.pdf"
-
+  url: "publication/acsami.3c09627/084.acsami.3c09627.pdf" 
 - name: Supporting Material
-  url: "publication/acsami.3c09627/084.acsami.3c09627_si_001.pdf"
-
+  url: "publication/acsami.3c09627/084.acsami.3c09627_si_001.pdf" 
 
 publication: "ACS Applied Materials &amp; Interfaces"
 publication_types: ["article-journal"]

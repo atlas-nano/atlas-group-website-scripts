@@ -1,7 +1,7 @@
 ---
 title: "Thermodynamics of Water Stabilization of Carboxybetaine Hydrogels from Molecular Dynamics Simulations"
 authors:
-- admin
+- Tod
 - Yi He
 - Shaoyi Jiang
 - William A. Goddard
@@ -10,11 +10,9 @@ doi: "10.1021/jz200760n"
 abstract: ""
 links:
 - name: Main Paper
-  url: "publication/jz200760n/015.jz200760n.pdf"
-
+  url: "publication/jz200760n/015.jz200760n.pdf" 
 - name: Supporting Material
-  url: "publication/jz200760n/015.jz200760n_si_001.pdf"
-
+  url: "publication/jz200760n/015.jz200760n_si_001.pdf" 
 
 publication: "The Journal of Physical Chemistry Letters"
 publication_types: ["article-journal"]

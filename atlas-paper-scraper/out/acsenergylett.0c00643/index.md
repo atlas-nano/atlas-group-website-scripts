@@ -9,7 +9,7 @@ authors:
 - Dawei Xia
 - Pranjal Bhaladhare
 - Matthew S. Gonzalez
-- admin
+- Tod
 - Ping Liu
 - Zheng Chen
 date: "2020-05-08T00:00:00Z"
@@ -17,11 +17,9 @@ doi: "10.1021/acsenergylett.0c00643"
 abstract: ""
 links:
 - name: Main Paper
-  url: "publication/acsenergylett.0c00643/053.acsenergylett.0c00643.pdf"
-
+  url: "publication/acsenergylett.0c00643/053.acsenergylett.0c00643.pdf" 
 - name: Supporting Material
-  url: "publication/acsenergylett.0c00643/053.acsenergylett.0c00643.si.pdf"
-
+  url: "publication/acsenergylett.0c00643/053.acsenergylett.0c00643.si.pdf" 
 
 publication: "ACS Energy Letters"
 publication_types: ["article-journal"]

@@ -13,21 +13,18 @@ authors:
 - Richard J. Saykally
 - Walter S. Drisdell
 - Shervin Fatehi
-- admin
+- Tod
 - Michael Zuerch
 date: "2022-10-06T00:00:00Z"
 doi: "10.1021/acs.jpclett.2c01020"
 abstract: ""
 links:
 - name: Main Paper
-  url: "publication/acs.jpclett.2c01020/075.acs.jpclett.2c01020.pdf"
-
+  url: "publication/acs.jpclett.2c01020/075.acs.jpclett.2c01020.pdf" 
 - name: Supporting Material
-  url: "publication/acs.jpclett.2c01020/075.jz2c01020_si_002.pdf"
-
+  url: "publication/acs.jpclett.2c01020/075.jz2c01020_si_002.pdf" 
 - name: Supporting Material 2
-  url: "publication/acs.jpclett.2c01020/075.jz2c01020_si_001.pdf"
-
+  url: "publication/acs.jpclett.2c01020/075.jz2c01020_si_001.pdf" 
 publication: "The Journal of Physical Chemistry Letters"
 publication_types: ["article-journal"]
 ---

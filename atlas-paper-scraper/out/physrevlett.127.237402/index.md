@@ -19,7 +19,7 @@ authors:
 - Craig P. Schwartz
 - Walter S. Drisdell
 - Iwao Matsuda
-- admin
+- Tod
 - Alfred Zong
 - Michael Zuerch
 date: "2021-11-30T00:00:00Z"
@@ -27,11 +27,9 @@ doi: "10.1103/physrevlett.127.237402"
 abstract: ""
 links:
 - name: Main Paper
-  url: "publication/physrevlett.127.237402/066.PhysRevLett.127.237402.pdf"
-
+  url: "publication/physrevlett.127.237402/066.PhysRevLett.127.237402.pdf" 
 - name: Supporting Material
-  url: "publication/physrevlett.127.237402/066.PhysRevLett.127.237402.si.pdf"
-
+  url: "publication/physrevlett.127.237402/066.PhysRevLett.127.237402.si.pdf" 
 
 publication: "Physical Review Letters"
 publication_types: ["article-journal"]

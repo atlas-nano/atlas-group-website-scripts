@@ -3,7 +3,7 @@ title: "Two-photon absorption of soft X-ray free electron laser radiation by gra
 authors:
 - Royce K. Lam
 - Sumana L. Raj
-- admin
+- Tod
 - C.D. Pemmaraju
 - Laura Foglia
 - Alberto Simoncig
@@ -40,8 +40,7 @@ doi: "10.1016/j.cplett.2018.05.021"
 abstract: ""
 links:
 - name: Main Paper
-  url: "publication/j.cplett.2018.05.021/047.qt3xn0326x.pdf"
-
+  url: "publication/j.cplett.2018.05.021/047.qt3xn0326x.pdf" 
 
 
 publication: "Chemical Physics Letters"

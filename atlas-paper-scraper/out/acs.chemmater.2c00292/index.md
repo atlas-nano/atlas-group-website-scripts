@@ -3,15 +3,14 @@ title: "Computational Modeling of Molecular Mechanics for the Experimentally Inc
 authors:
 - Andrew T. Kleinschmidt
 - Alexander X. Chen
-- admin
+- Tod
 - Darren J. Lipomi
 date: "2022-09-13T00:00:00Z"
 doi: "10.1021/acs.chemmater.2c00292"
 abstract: ""
 links:
 - name: Main Paper
-  url: "publication/acs.chemmater.2c00292/074.acs.chemmater.2c00292.pdf"
-
+  url: "publication/acs.chemmater.2c00292/074.acs.chemmater.2c00292.pdf" 
 
 
 publication: "Chemistry of Materials"

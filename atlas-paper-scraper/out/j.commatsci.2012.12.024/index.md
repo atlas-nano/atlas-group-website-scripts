@@ -3,15 +3,14 @@ title: "Molecular dynamics simulations for thermal transport behavior of InAs na
 authors:
 - Suin Yi
 - In Kim
-- admin
+- Tod
 - Yousung Jung
 date: "2013-04-01T00:00:00Z"
 doi: "10.1016/j.commatsci.2012.12.024"
 abstract: ""
 links:
 - name: Main Paper
-  url: "publication/j.commatsci.2012.12.024/025.commmat_4952.pdf"
-
+  url: "publication/j.commatsci.2012.12.024/025.commmat_4952.pdf" 
 
 
 publication: "Computational Materials Science"

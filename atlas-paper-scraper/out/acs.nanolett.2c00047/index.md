@@ -9,18 +9,16 @@ authors:
 - Taewoo Kim
 - Lior Kornblum
 - Darrell G. Schlom
-- admin
+- Tod
 - David P. Fenning
 date: "2022-05-25T00:00:00Z"
 doi: "10.1021/acs.nanolett.2c00047"
 abstract: ""
 links:
 - name: Main Paper
-  url: "publication/acs.nanolett.2c00047/070.acs.nanolett.2c00047.pdf"
-
+  url: "publication/acs.nanolett.2c00047/070.acs.nanolett.2c00047.pdf" 
 - name: Supporting Material
-  url: "publication/acs.nanolett.2c00047/070.acs.nanolett.2c00047.si.pdf"
-
+  url: "publication/acs.nanolett.2c00047/070.acs.nanolett.2c00047.si.pdf" 
 
 publication: "Nano Letters"
 publication_types: ["article-journal"]

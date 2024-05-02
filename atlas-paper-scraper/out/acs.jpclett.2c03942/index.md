@@ -10,21 +10,18 @@ authors:
 - George E. Sterbinsky
 - Tianpin Wu
 - Amin Salehi-Khojin
-- admin
+- Tod
 - Jordi Cabana
 date: "2023-04-06T00:00:00Z"
 doi: "10.1021/acs.jpclett.2c03942"
 abstract: ""
 links:
 - name: Main Paper
-  url: "publication/acs.jpclett.2c03942/080.acs.jpclett.2c03942.pdf"
-
+  url: "publication/acs.jpclett.2c03942/080.acs.jpclett.2c03942.pdf" 
 - name: Supporting Material
-  url: "publication/acs.jpclett.2c03942/080.acs.jpclett.2c03942.si.1.pdf"
-
+  url: "publication/acs.jpclett.2c03942/080.acs.jpclett.2c03942.si.1.pdf" 
 - name: Supporting Material 2
-  url: "publication/acs.jpclett.2c03942/080.acs.jpclett.2c03942.si.2.pdf"
-
+  url: "publication/acs.jpclett.2c03942/080.acs.jpclett.2c03942.si.2.pdf" 
 publication: "The Journal of Physical Chemistry Letters"
 publication_types: ["article-journal"]
 ---

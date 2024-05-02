@@ -41,11 +41,9 @@ doi: "10.1103/physrevlett.120.023901"
 abstract: ""
 links:
 - name: Main Paper
-  url: "publication/physrevlett.120.023901/043.PhysRevLett.120.023901.pdf"
-
+  url: "publication/physrevlett.120.023901/043.PhysRevLett.120.023901.pdf" 
 - name: Supporting Material
-  url: "publication/physrevlett.120.023901/043.PhysRevLett.120.023901-SI.pdf"
-
+  url: "publication/physrevlett.120.023901/043.PhysRevLett.120.023901-SI.pdf" 
 
 publication: "Physical Review Letters"
 publication_types: ["article-journal"]

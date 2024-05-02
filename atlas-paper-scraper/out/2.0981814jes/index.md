@@ -10,18 +10,16 @@ authors:
 - Matthew J. Latimer
 - Jun Feng
 - David Prendergast
-- admin
+- Tod
 - Nitash P. Balsara
 date: "2018-01-01T00:00:00Z"
 doi: "10.1149/2.0981814jes"
 abstract: ""
 links:
 - name: Main Paper
-  url: "publication/2.0981814jes/046.J. Electrochem. Soc.-2018-Wang-A3487-95.pdf"
-
+  url: "publication/2.0981814jes/046.J. Electrochem. Soc.-2018-Wang-A3487-95.pdf" 
 - name: Supporting Material
-  url: "publication/2.0981814jes/046.J. Electrochem. Soc.-2018-Wang-A3487-95-SI.pdf"
-
+  url: "publication/2.0981814jes/046.J. Electrochem. Soc.-2018-Wang-A3487-95-SI.pdf" 
 
 publication: "Journal of The Electrochemical Society"
 publication_types: ["article-journal"]

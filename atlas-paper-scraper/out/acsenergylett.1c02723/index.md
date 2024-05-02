@@ -8,7 +8,7 @@ authors:
 - Zhaohui Wu
 - Sicen Yu
 - Jian Luo
-- admin
+- Tod
 - Zheng Chen
 - Ping Liu
 date: "2022-02-11T00:00:00Z"
@@ -16,11 +16,9 @@ doi: "10.1021/acsenergylett.1c02723"
 abstract: ""
 links:
 - name: Main Paper
-  url: "publication/acsenergylett.1c02723/068.acsenergylett.1c02723.pdf"
-
+  url: "publication/acsenergylett.1c02723/068.acsenergylett.1c02723.pdf" 
 - name: Supporting Material
-  url: "publication/acsenergylett.1c02723/068.acsenergylett.1c02723_si.pdf"
-
+  url: "publication/acsenergylett.1c02723/068.acsenergylett.1c02723_si.pdf" 
 
 publication: "ACS Energy Letters"
 publication_types: ["article-journal"]

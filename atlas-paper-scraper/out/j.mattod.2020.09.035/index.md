@@ -11,18 +11,16 @@ authors:
 - Qizhang Yan
 - Xing Xing
 - Yejing Li
-- admin
+- Tod
 - Ping Liu
 date: "2021-01-01T00:00:00Z"
 doi: "10.1016/j.mattod.2020.09.035"
 abstract: ""
 links:
 - name: Main Paper
-  url: "publication/j.mattod.2020.09.035/054.1-s2.0-S1369702120303382-main.pdf"
-
+  url: "publication/j.mattod.2020.09.035/054.1-s2.0-S1369702120303382-main.pdf" 
 - name: Supporting Material
-  url: "publication/j.mattod.2020.09.035/054.1-s2.0-S1369702120303382-mmc1.pdf"
-
+  url: "publication/j.mattod.2020.09.035/054.1-s2.0-S1369702120303382-mmc1.pdf" 
 
 publication: "Materials Today"
 publication_types: ["article-journal"]

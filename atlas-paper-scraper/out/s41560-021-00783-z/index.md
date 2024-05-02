@@ -9,7 +9,7 @@ authors:
 - Guorui Cai
 - Sicen Yu
 - Hongyao Zhou
-- admin
+- Tod
 - Zheng Chen
 - Ping Liu
 date: "2021-02-25T00:00:00Z"
@@ -17,11 +17,9 @@ doi: "10.1038/s41560-021-00783-z"
 abstract: ""
 links:
 - name: Main Paper
-  url: "publication/s41560-021-00783-z/055.s41560-021-00783-z.pdf"
-
+  url: "publication/s41560-021-00783-z/055.s41560-021-00783-z.pdf" 
 - name: Supporting Material
-  url: "publication/s41560-021-00783-z/055.s41560-021-00783-z-SI.pdf"
-
+  url: "publication/s41560-021-00783-z/055.s41560-021-00783-z-SI.pdf" 
 
 publication: "Nature Energy"
 publication_types: ["article-journal"]
